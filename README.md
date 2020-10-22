@@ -1,6 +1,6 @@
-[![author](https://img.shields.io/badge/Author-diegoap-red)](https://www.linkedin.com/in/diegoap/) [![](https://img.shields.io/badge/python-3.5+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
+[![author](https://img.shields.io/badge/Author-diegoap-red)](https://www.linkedin.com/in/diegoap/) [![](https://img.shields.io/badge/python-3.5+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![Certificated](https://img.shields.io/badge/Certified-DataScience%20Professional-red)](https://www.coursera.org/account/accomplishments/specialization/certificate/ZP7UWRHAK4GJ)
 
-# Data Science Portfolio - iedo A Pereira <sub>[![Certificated](https://img.shields.io/badge/Certified-DataScience%20Professional-red)](https://www.coursera.org/account/accomplishments/specialization/certificate/ZP7UWRHAK4GJ)</sub>
+# Data Science Portfolio - Diedo A Pereira <sub></sub>
 
 Describe author and jobs
 
